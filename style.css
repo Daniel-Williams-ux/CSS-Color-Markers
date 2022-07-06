@@ -17,10 +17,18 @@ h1 {
 }
 
 .blue {
-  background: linear-gradient( hsl(186, 76%, 16%), hsl(223, 90%, 60%));
+  background: linear-gradient( hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
 
 .container {
   background-color: rgb(255, 255, 255);
   padding: 10px 0px;
 }
+
+.sleeve {
+  width: 110px;
+  height: 25px;
+}
+/*
+Create a new CSS rule that targets the class sleeve. Set the width property to 110px, and the height property to 25px.
+*/
